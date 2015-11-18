@@ -2,6 +2,8 @@
 
 Browse your favorite Reddit categories and share posts via email.
 
+![Reddit Reader](https://raw.githubusercontent.com/wiki/tribou/reddit-reader/reddit-reader.gif)
+
 Reddit reader is an example Reddit web client built in React, Flux, and Hapi with drag-and-drop and auto-search upon keystroke features.
 
 #### Quick Start
